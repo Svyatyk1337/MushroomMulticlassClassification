@@ -33,7 +33,6 @@ This project implements an image classification pipeline leveraging transfer lea
 
 ### Key Results:
 - **Transfer Learning**: Achieved high training and validation accuracy (~98% and ~89%, respectively).
-- **Fine-Tuning**: Performance degraded compared to transfer learning due to overfitting.
 
 ---
 
